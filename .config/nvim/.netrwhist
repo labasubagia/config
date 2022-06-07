@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/yozy/project/ml-deploy-fastapi/app/ml'
+let g:netrw_dirhist_5='/home/yozy/project/ml-deploy-fastapi/app'
+let g:netrw_dirhist_4='/home/yozy/project/ml-deploy-fastapi'
+let g:netrw_dirhist_3='/home/yozy/project/ml-deploy-fastapi/model'
+let g:netrw_dirhist_2='/home/yozy/project/ml-deploy-fastapi'
+let g:netrw_dirhist_1='/home/yozy/learn/code/golang/leetcode/easy'
+let g:netrw_dirhist_0='/home/yozy/learn/code/golang/leetcode'
+let g:netrw_dirhist_9='/home/yozy/project'
+let g:netrw_dirhist_8='/home/yozy/project/mailer'
+let g:netrw_dirhist_7='/home/yozy/project'
